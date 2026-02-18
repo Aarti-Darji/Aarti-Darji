@@ -1,7 +1,6 @@
 ## About Me 👋
 
-Hi, thanks for visiting my GitHub. My name is Aarti Darji, I am a rising senior at The University of Texas at Arlington
-majoring in Data Science with a concentration in Psychology. My research interests lie at the intersection of AI, HCI and Spatial Biology. My research experience ranges from fabrication of flexible sensors to motivate unique gestures to developing a similarity search framework between histopathology and mIF imaging modalities. To learn more about my research, please visit [my website](https://aarti-darji.github.io/).
+Hi, thanks for visiting my GitHub. My name is Aarti Darji, I am currently a MS Computer Science student at NYU Courant. My research interests lie at the intersection of AI, HCI and Spatial Biology. My research experience ranges from fabrication of flexible sensors to motivate unique gestures to developing a similarity search framework between histopathology and mIF imaging modalities. To learn more about my research, please visit [my website](https://aarti-darji.github.io/).
 <!--
 **Aarti-Darji/Aarti-Darji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
